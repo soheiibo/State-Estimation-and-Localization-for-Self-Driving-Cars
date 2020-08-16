@@ -4,15 +4,12 @@
 # Results :
   ### Part 1: Ideal case
   
-<div class="row">
-  <div class="column">
-![analysis_part_1](https://user-images.githubusercontent.com/64086951/90326945-7e8cf480-df86-11ea-89a0-b79e8937bff4.png)
-  </div>
-  
-![tracking_part_1](https://user-images.githubusercontent.com/64086951/90326957-a11f0d80-df86-11ea-904d-048a39e4a39d.png)
+![image (1)](https://user-images.githubusercontent.com/64086951/90327203-1e4b8200-df89-11ea-9a64-2a153dd6aab7.png)
+
 
  ### Part 02; Sensor's poor calibration
-![analysis_part_2](https://user-images.githubusercontent.com/64086951/90327083-e8f26480-df87-11ea-9a1f-d61c67edef29.png)
-![tracking_part_2](https://user-images.githubusercontent.com/64086951/90327086-f1e33600-df87-11ea-88b2-d49e84477067.png)
+![image (2)](https://user-images.githubusercontent.com/64086951/90327207-2acfda80-df89-11ea-9fa0-e7209865889c.png)
+
 
 ### Part 03: Sensor's infomation drops 
+![image (31)](https://user-images.githubusercontent.com/64086951/90327209-315e5200-df89-11ea-8798-862abe042e70.png)
