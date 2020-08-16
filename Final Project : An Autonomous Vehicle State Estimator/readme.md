@@ -4,3 +4,4 @@
 # Results :
   ### Part 1: Ideal case
   
+![analysis_part_1](https://user-images.githubusercontent.com/64086951/90326945-7e8cf480-df86-11ea-89a0-b79e8937bff4.png)
